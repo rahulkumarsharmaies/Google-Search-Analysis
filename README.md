@@ -13,7 +13,7 @@ A starter project outlining an analysis of how people search for keywords across
 ## Project files
 
 - [`project-source/project-outline.txt`](project-source/project-outline.txt) — the supplied project outline.
-- [`project-source/output.json`](project-source/output.json) — an empty output file supplied with the project.
+- [`project-source/output.json`](project-source/output.json) — an empty JSON array supplied with the project.
 
 ## Status
 
@@ -22,3 +22,4 @@ This repository currently contains the project outline only. The supplied file h
 ## Next steps
 
 To make this analysis runnable, add a valid Jupyter notebook, choose a search-interest data source and dataset, and document any required Python packages and data-access setup.
+
