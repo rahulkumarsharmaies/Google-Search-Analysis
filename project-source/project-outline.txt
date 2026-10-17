@@ -1,0 +1,6 @@
+# Suppose you are working in a data-driven job role, and you hava to answer all these question.
+# 1. First write a code where, by changing just the keyword, we can search for multiple thing.
+# 2. Top 15 countries where the keywords are searched the most and also create visual representation.
+# 3. A world map needs  to be plotted showing the countries that search the keyword the most.
+# 4. We need to extract the time-wise interest of the keyword - hpw it trended in different years.
+# 5. Compare related keyword and plot the graph.
